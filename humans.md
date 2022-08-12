@@ -1,4 +1,5 @@
 # TEAM
+
 ---
 Your title: Your name.      
 Site: email, link to a contact form, etc.
@@ -7,12 +8,14 @@ Location: City, Country.
 ---
 
 # THANKS
+
 ---
 Name: name or url
 ---
 
 
 # REPO 
+
 ---
 Last update: YYYY/MM/DD 
 Standards: HTML5, CSS3,..

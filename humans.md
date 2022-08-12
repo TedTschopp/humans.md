@@ -1,10 +1,10 @@
 # TEAM
 
 ---
-Your title: Your name.      
-Site: email, link to a contact form, etc.
-Twitter: your Twitter username.
-Location: City, Country.
+Your-title: "Your name"
+Site: "email, link to a contact form, etc"
+Twitter: "your Twitter username"
+Location: "City, Country"
 ---
 
 # THANKS

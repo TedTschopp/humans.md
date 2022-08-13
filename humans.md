@@ -28,7 +28,7 @@ Humans.MD is more than just way to connect people with technology in a machine r
 
 ## TEAM
 
-[//]: # (This section is for the current Team.  This should be based on Microformat VCards.  More to do here)
+[//]: # (This section is for the current Team.  This should be based on Microformat HCards.  More to do here)
 
 ### CURRENT
 
@@ -44,39 +44,40 @@ Humans.MD is more than just way to connect people with technology in a machine r
 
 ### THANKS TO
 
-[//]: # (This section is for people and organizations the team would like to thank.  This should be based on Microformat VCards.  More to do here)
+[//]: # (This section is for people and organizations the team would like to thank.  This should be based on Microformat HCards.  More to do here)
 
 ### "Someone's Name"
 * Title: 
 * Contriubtion:
 * Name: name or url
 
-## Information
+## INFORMATION
 
 [//]: # (This section is informational about the repository.  Fields TBD.  Level 2 items do not need to be in order)
 
-
-	Last Update:	N/A
-	URL:			http://mother4game.com
-	Language: 		English
-	Doctype:		HTML5
-Language: English / Spanish       
-Doctype: Many and varied :-(        
-IDE: Vim, MediWiki, Perl, Php, Apache, Photoshop, Git, Chrome
+    Last update: YYYY/MM/DD 
+	  Last Update:	N/A
+	  URL:			http://mother4game.com
+	  Language: 		English
+    Language: English / Spanish       
     Language: Japanese, English
+
+### TECHNOLOGY
+
+[//]: # (This section is about the technology used. Fields TBD. )
+
+    Doctype: Many and varied :-(        
+    IDE: Vim, MediWiki, Perl, Php, Apache, Photoshop, Git, Chrome
     Doctype: HTML5
     Editor: Vim, Visual Studio Code
     Tools: Ruby on Rails
-
-### Technology
-
-[//]: # (This section is about the technology used. Fields TBD. )
+    Doctype:		HTML5
 
 ### REPOSITORIES
 
 [//]: # (This section is about the repos needed to build the solution. Fields TBD.  This section is optional)
 
-* Last update: YYYY/MM/DD 
+
 * Standards: HTML5, CSS3,..
 * Components: Modernizr, jQuery, etc.
 * Software: Software used for the development
